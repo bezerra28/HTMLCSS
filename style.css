@@ -1,0 +1,23 @@
+/*mudando a cor da pagina interira*/
+body {
+    background-color: black;
+    color: #f6f6f6;
+}
+h1 {
+    color: #f6f6f6;
+}
+p{
+    color: darkgray;
+}
+strong {
+    color: #22d4fd;
+}
+footer {
+    background-color: gray;
+    color: white;
+}
+span{
+    color: #22D4FD;
+    border: 1px solid #22D4FD;
+    padding: 10px;
+}
